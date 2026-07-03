@@ -8,24 +8,33 @@ def load_words(path):
   return data['words']
 
 def pick_word(word_list):
-  return random.choice(word_list)
+    index = random.randrange(len(word_list))
+    return word_list.pop(index)
 
 def menu():
-  print("--- Welcome to langue game ---")
+  print("--- Welcome to language game ---")
   print(" 1 - Play")
   print(" 0 - Exit")
-  return int(input())
+
+  try:
+    return int(input())
+  except ValueError:
+    return -1
 
 def game(word_list):
   current_word = pick_word(word_list)
-  print(f"What means {current_word['word']}?")
-  answer = input()
+  print(f"What does {current_word['word']} mean?")
+  answer = input().strip().lower()
 
-  if answer.lower() == current_word["translation"].lower():
+  translations = current_word["translation"].split('/')
+  translations = [x.strip().lower() for x in translations]
+
+  if answer in translations:
     print("That's correct!")
     return True
   else:
     print("That is not correct.")
+    print(f"The answer is {current_word['translation']}")
     return False
 
 def main():
@@ -37,12 +46,23 @@ def main():
     if option != 1:
       print("Type a valid option")
     else:
+      current_word_list = word_list.copy()
+      score = 0
       keep_playing = True 
-      while keep_playing:
-        keep_playing = game(word_list)
+      while keep_playing and len(current_word_list) > 0:
+        keep_playing = game(current_word_list)
+
+        if keep_playing:
+          score += 1
+      
+      if len(current_word_list) == 0:
+        print("Congratulations! You answered all words correctly")
+      else:
+        print(f"Game over! Your score was {score}")
+
     option = menu()
   
   print("Goodbye")
 
 if __name__ == "__main__":
-    main()
+  main()
