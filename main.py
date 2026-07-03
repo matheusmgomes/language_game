@@ -23,7 +23,7 @@ def menu():
 
 def game(word_list):
   current_word = pick_word(word_list)
-  print(f"What does {current_word['word']} mean?")
+  print(f"What does {current_word['word']} mean in English?")
   answer = input().strip().lower()
 
   translations = current_word["translation"].split('/')
@@ -35,10 +35,15 @@ def game(word_list):
   else:
     print("That is not correct.")
     print(f"The answer is {current_word['translation']}")
+    print(f"\nMeaning: {current_word['meaning']}")
+    print("Examples: ")
+    for sentence in current_word['sentences']:
+      print(sentence)
+    
     return False
 
 def main():
-  word_list = load_words('data/german_words.json')
+  word_list = load_words('data/french_words_v2.json')
 
   option = menu()
 
@@ -48,12 +53,16 @@ def main():
     else:
       current_word_list = word_list.copy()
       score = 0
+      question_count = 1
       keep_playing = True 
       while keep_playing and len(current_word_list) > 0:
+        print(f"Question {question_count}/100")
+        print(f"Score: {score}")
         keep_playing = game(current_word_list)
 
         if keep_playing:
           score += 1
+          question_count += 1
       
       if len(current_word_list) == 0:
         print("Congratulations! You answered all words correctly")
