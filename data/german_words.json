@@ -1,0 +1,364 @@
+{
+  "words": [
+    {
+      "word": "Hallo",
+      "translation": "hello",
+      "meaning": "An informal greeting used to say hi to someone.",
+      "sentences": [
+        "Hallo, wie geht es dir?",
+        "Hallo! Schön, dich zu sehen."
+      ]
+    },
+    {
+      "word": "Danke",
+      "translation": "thank you",
+      "meaning": "An expression used to thank someone.",
+      "sentences": [
+        "Danke für deine Hilfe.",
+        "Vielen Danke für das Geschenk."
+      ]
+    },
+    {
+      "word": "Bitte",
+      "translation": "please / you're welcome",
+      "meaning": "Used to politely ask for something or to respond to thanks.",
+      "sentences": [
+        "Kannst du mir bitte helfen?",
+        "Danke! - Bitte schön!"
+      ]
+    },
+    {
+      "word": "Haus",
+      "translation": "house",
+      "meaning": "A building where people live.",
+      "sentences": [
+        "Das Haus ist sehr groß.",
+        "Ich gehe jetzt nach Hause."
+      ]
+    },
+    {
+      "word": "Wasser",
+      "translation": "water",
+      "meaning": "A colorless, tasteless liquid essential to life.",
+      "sentences": [
+        "Ich trinke jeden Tag viel Wasser.",
+        "Das Wasser im Fluss ist kalt."
+      ]
+    },
+    {
+      "word": "Essen",
+      "translation": "food / to eat",
+      "meaning": "A noun meaning food, or a verb meaning to eat.",
+      "sentences": [
+        "Das Essen schmeckt sehr gut.",
+        "Wir essen heute Abend zusammen."
+      ]
+    },
+    {
+      "word": "Freund",
+      "translation": "friend",
+      "meaning": "A person with whom one has a friendly relationship.",
+      "sentences": [
+        "Er ist mein bester Freund.",
+        "Ich treffe meinen Freund im Park."
+      ]
+    },
+    {
+      "word": "Zeit",
+      "translation": "time",
+      "meaning": "The measure of duration of events.",
+      "sentences": [
+        "Ich habe keine Zeit heute.",
+        "Die Zeit vergeht sehr schnell."
+      ]
+    },
+    {
+      "word": "Arbeit",
+      "translation": "work / job",
+      "meaning": "An activity done to earn money or complete a task.",
+      "sentences": [
+        "Meine Arbeit beginnt um acht Uhr.",
+        "Er hat viel Arbeit diese Woche."
+      ]
+    },
+    {
+      "word": "Schule",
+      "translation": "school",
+      "meaning": "An institution where children and young people study.",
+      "sentences": [
+        "Die Kinder gehen jeden Tag zur Schule.",
+        "Meine Schule ist nicht weit von hier."
+      ]
+    },
+    {
+      "word": "Familie",
+      "translation": "family",
+      "meaning": "A group of people related by kinship, such as parents, children, and siblings.",
+      "sentences": [
+        "Meine Familie ist sehr wichtig für mich.",
+        "Wir treffen unsere Familie am Wochenende."
+      ]
+    },
+    {
+      "word": "Buch",
+      "translation": "book",
+      "meaning": "An object made of pages with text or images, used for reading.",
+      "sentences": [
+        "Ich lese gerade ein interessantes Buch.",
+        "Kannst du mir dieses Buch leihen?"
+      ]
+    },
+    {
+      "word": "Auto",
+      "translation": "car",
+      "meaning": "A motorized vehicle used for transportation.",
+      "sentences": [
+        "Mein Auto ist rot.",
+        "Wir fahren mit dem Auto nach Berlin."
+      ]
+    },
+    {
+      "word": "Stadt",
+      "translation": "city",
+      "meaning": "A large urban area with many inhabitants.",
+      "sentences": [
+        "Berlin ist eine große Stadt.",
+        "Ich wohne in einer kleinen Stadt."
+      ]
+    },
+    {
+      "word": "Straße",
+      "translation": "street",
+      "meaning": "A public road used for walking or driving.",
+      "sentences": [
+        "Die Straße ist sehr laut.",
+        "Wir überqueren die Straße vorsichtig."
+      ]
+    },
+    {
+      "word": "Tag",
+      "translation": "day",
+      "meaning": "A period of 24 hours, or the daylight part of that period.",
+      "sentences": [
+        "Heute ist ein schöner Tag.",
+        "Ich arbeite jeden Tag außer Sonntag."
+      ]
+    },
+    {
+      "word": "Nacht",
+      "translation": "night",
+      "meaning": "The period of the day when it is dark, between sunset and sunrise.",
+      "sentences": [
+        "Die Nacht ist sehr ruhig.",
+        "Ich schlafe acht Stunden pro Nacht."
+      ]
+    },
+    {
+      "word": "Woche",
+      "translation": "week",
+      "meaning": "A period of seven days.",
+      "sentences": [
+        "Nächste Woche fahre ich in den Urlaub.",
+        "Diese Woche habe ich viel zu tun."
+      ]
+    },
+    {
+      "word": "Jahr",
+      "translation": "year",
+      "meaning": "A period of twelve months.",
+      "sentences": [
+        "Dieses Jahr war sehr gut für mich.",
+        "Nächstes Jahr besuche ich meine Familie."
+      ]
+    },
+    {
+      "word": "Geld",
+      "translation": "money",
+      "meaning": "A medium of exchange used to buy goods and services.",
+      "sentences": [
+        "Ich habe nicht genug Geld dabei.",
+        "Er verdient viel Geld mit seiner Arbeit."
+      ]
+    },
+    {
+      "word": "Liebe",
+      "translation": "love",
+      "meaning": "A deep feeling of affection or fondness for someone.",
+      "sentences": [
+        "Die Liebe zwischen ihnen ist stark.",
+        "Sie zeigt ihre Liebe zu ihrer Familie."
+      ]
+    },
+    {
+      "word": "Kind",
+      "translation": "child",
+      "meaning": "A young person who is not yet an adult.",
+      "sentences": [
+        "Das Kind spielt im Garten.",
+        "Jedes Kind braucht Liebe und Aufmerksamkeit."
+      ]
+    },
+    {
+      "word": "Mann",
+      "translation": "man",
+      "meaning": "An adult male person.",
+      "sentences": [
+        "Der Mann trägt einen schwarzen Anzug.",
+        "Mein Mann kocht sehr gut."
+      ]
+    },
+    {
+      "word": "Frau",
+      "translation": "woman",
+      "meaning": "An adult female person.",
+      "sentences": [
+        "Die Frau arbeitet als Ärztin.",
+        "Meine Frau liebt es zu reisen."
+      ]
+    },
+    {
+      "word": "gehen",
+      "translation": "to go / to walk",
+      "meaning": "A verb indicating movement from one place to another on foot.",
+      "sentences": [
+        "Ich gehe jeden Morgen spazieren.",
+        "Wir gehen zusammen ins Kino."
+      ]
+    },
+    {
+      "word": "sprechen",
+      "translation": "to speak",
+      "meaning": "A verb indicating verbal communication.",
+      "sentences": [
+        "Ich spreche ein bisschen Deutsch.",
+        "Kannst du bitte langsamer sprechen?"
+      ]
+    },
+    {
+      "word": "verstehen",
+      "translation": "to understand",
+      "meaning": "A verb indicating comprehension of something.",
+      "sentences": [
+        "Ich verstehe die Frage nicht.",
+        "Verstehst du, was ich meine?"
+      ]
+    },
+    {
+      "word": "lernen",
+      "translation": "to learn",
+      "meaning": "A verb indicating acquiring knowledge or a skill.",
+      "sentences": [
+        "Ich lerne seit einem Jahr Deutsch.",
+        "Kinder lernen schnell neue Sprachen."
+      ]
+    },
+    {
+      "word": "wissen",
+      "translation": "to know (a fact)",
+      "meaning": "A verb indicating having knowledge about something.",
+      "sentences": [
+        "Ich weiß die Antwort nicht.",
+        "Weißt du, wo der Bahnhof ist?"
+      ]
+    },
+    {
+      "word": "schön",
+      "translation": "beautiful / nice",
+      "meaning": "An adjective describing something pleasant to see or experience.",
+      "sentences": [
+        "Das ist ein schönes Kleid.",
+        "Wir hatten einen schönen Tag."
+      ]
+    },
+    {
+      "word": "groß",
+      "translation": "big / tall",
+      "meaning": "An adjective indicating large size or great height.",
+      "sentences": [
+        "Das Haus ist sehr groß.",
+        "Mein Bruder ist größer als ich."
+      ]
+    },
+    {
+      "word": "klein",
+      "translation": "small",
+      "meaning": "An adjective indicating reduced size.",
+      "sentences": [
+        "Die Wohnung ist ziemlich klein.",
+        "Sie hat eine kleine Katze."
+      ]
+    },
+    {
+      "word": "gut",
+      "translation": "good",
+      "meaning": "An adjective indicating positive quality.",
+      "sentences": [
+        "Das Essen war sehr gut.",
+        "Mir geht es gut, danke."
+      ]
+    },
+    {
+      "word": "schlecht",
+      "translation": "bad",
+      "meaning": "An adjective indicating negative quality.",
+      "sentences": [
+        "Das Wetter ist heute schlecht.",
+        "Ich fühle mich schlecht."
+      ]
+    },
+    {
+      "word": "schnell",
+      "translation": "fast",
+      "meaning": "An adjective/adverb indicating high speed.",
+      "sentences": [
+        "Das Auto fährt sehr schnell.",
+        "Kannst du das schnell erledigen?"
+      ]
+    },
+    {
+      "word": "langsam",
+      "translation": "slow",
+      "meaning": "An adjective/adverb indicating low speed.",
+      "sentences": [
+        "Der Zug fährt heute langsam.",
+        "Bitte sprich langsam, ich verstehe nicht alles."
+      ]
+    },
+    {
+      "word": "heute",
+      "translation": "today",
+      "meaning": "An adverb referring to the current day.",
+      "sentences": [
+        "Heute ist Montag.",
+        "Was machst du heute Abend?"
+      ]
+    },
+    {
+      "word": "morgen",
+      "translation": "tomorrow",
+      "meaning": "An adverb referring to the following day.",
+      "sentences": [
+        "Morgen fahre ich nach Hamburg.",
+        "Wir sehen uns morgen früh."
+      ]
+    },
+    {
+      "word": "immer",
+      "translation": "always",
+      "meaning": "An adverb indicating that something happens at all times.",
+      "sentences": [
+        "Er kommt immer pünktlich.",
+        "Ich trinke immer Kaffee am Morgen."
+      ]
+    },
+    {
+      "word": "nie",
+      "translation": "never",
+      "meaning": "An adverb indicating that something never happens.",
+      "sentences": [
+        "Ich rauche nie.",
+        "Sie kommt nie zu spät."
+      ]
+    }
+  ]
+}
