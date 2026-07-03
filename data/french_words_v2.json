@@ -1,0 +1,1004 @@
+{
+  "words": [
+    {
+      "word": "Bonjour",
+      "translation": "hello",
+      "meaning": "A greeting used when meeting someone or starting a conversation.",
+      "level": "A1",
+      "sentences": [
+        "Bonjour, comment allez-vous ?",
+        "Bonjour, je m'appelle Sophie."
+      ]
+    },
+    {
+      "word": "Salut",
+      "translation": "hi",
+      "meaning": "An informal greeting used when meeting someone.",
+      "level": "A1",
+      "sentences": [
+        "Salut, ça va ?",
+        "Salut Paul, tu viens ce soir ?"
+      ]
+    },
+    {
+      "word": "Merci",
+      "translation": "thank you",
+      "meaning": "A polite expression used to show gratitude.",
+      "level": "A1",
+      "sentences": [
+        "Merci pour votre aide.",
+        "Merci beaucoup pour le cadeau."
+      ]
+    },
+    {
+      "word": "S'il vous plaît",
+      "translation": "please",
+      "meaning": "A polite expression used when making a request.",
+      "level": "A1",
+      "sentences": [
+        "Un café, s'il vous plaît.",
+        "Pouvez-vous répéter, s'il vous plaît ?"
+      ]
+    },
+    {
+      "word": "Oui",
+      "translation": "yes",
+      "meaning": "A word used to agree or give a positive answer.",
+      "level": "A1",
+      "sentences": [
+        "Oui, c'est vrai.",
+        "Tu veux du café ? — Oui, merci."
+      ]
+    },
+    {
+      "word": "Non",
+      "translation": "no",
+      "meaning": "A word used to disagree or give a negative answer.",
+      "level": "A1",
+      "sentences": [
+        "Non, je ne peux pas venir.",
+        "Tu veux du sucre ? — Non, merci."
+      ]
+    },
+    {
+      "word": "je",
+      "translation": "I",
+      "meaning": "A pronoun used by a speaker to refer to themselves.",
+      "level": "A1",
+      "sentences": [
+        "Je m'appelle Lucas.",
+        "Je viens du Brésil."
+      ]
+    },
+    {
+      "word": "tu",
+      "translation": "you",
+      "meaning": "A pronoun used to address one person informally.",
+      "level": "A1",
+      "sentences": [
+        "Tu habites où ?",
+        "Tu parles très bien français."
+      ]
+    },
+    {
+      "word": "il",
+      "translation": "he",
+      "meaning": "A pronoun used to refer to a male person.",
+      "level": "A1",
+      "sentences": [
+        "Il travaille dans un bureau.",
+        "Il arrive dans cinq minutes."
+      ]
+    },
+    {
+      "word": "elle",
+      "translation": "she",
+      "meaning": "A pronoun used to refer to a female person.",
+      "level": "A1",
+      "sentences": [
+        "Elle apprend le français.",
+        "Elle va au marché le samedi."
+      ]
+    },
+    {
+      "word": "nous",
+      "translation": "we",
+      "meaning": "A pronoun used by a speaker to refer to themselves and others.",
+      "level": "A1",
+      "sentences": [
+        "Nous habitons à Paris.",
+        "Nous allons au cinéma ce soir."
+      ]
+    },
+    {
+      "word": "être",
+      "translation": "to be",
+      "meaning": "To exist or have a particular identity, state, or quality.",
+      "level": "A1",
+      "sentences": [
+        "Je suis fatigué.",
+        "C'est mon frère."
+      ]
+    },
+    {
+      "word": "avoir",
+      "translation": "to have",
+      "meaning": "To possess, own, or hold something.",
+      "level": "A1",
+      "sentences": [
+        "J'ai faim.",
+        "Nous avons rendez-vous demain."
+      ]
+    },
+    {
+      "word": "aller",
+      "translation": "to go",
+      "meaning": "To move or travel from one place to another.",
+      "level": "A1",
+      "sentences": [
+        "Je vais au travail à huit heures.",
+        "On va au cinéma ce soir ?"
+      ]
+    },
+    {
+      "word": "venir",
+      "translation": "to come",
+      "meaning": "To move toward or arrive at a place.",
+      "level": "A1",
+      "sentences": [
+        "Je viens tout de suite.",
+        "Tu viens à la fête samedi ?"
+      ]
+    },
+    {
+      "word": "faire",
+      "translation": "to do / make",
+      "meaning": "To perform an action or create something.",
+      "level": "A1",
+      "sentences": [
+        "Qu'est-ce que tu fais ce week-end ?",
+        "Je fais le dîner ce soir."
+      ]
+    },
+    {
+      "word": "manger",
+      "translation": "to eat",
+      "meaning": "To consume food.",
+      "level": "A1",
+      "sentences": [
+        "Nous mangeons à midi.",
+        "J'aime manger des fruits."
+      ]
+    },
+    {
+      "word": "boire",
+      "translation": "to drink",
+      "meaning": "To consume liquid.",
+      "level": "A1",
+      "sentences": [
+        "Je bois du café le matin.",
+        "Tu veux boire quelque chose ?"
+      ]
+    },
+    {
+      "word": "apprendre",
+      "translation": "to learn",
+      "meaning": "To gain knowledge or skill through study or practice.",
+      "level": "A1",
+      "sentences": [
+        "J'apprends le français depuis trois mois.",
+        "Les enfants apprennent vite."
+      ]
+    },
+    {
+      "word": "parler",
+      "translation": "to speak",
+      "meaning": "To communicate using spoken words.",
+      "level": "A1",
+      "sentences": [
+        "Je parle un peu français.",
+        "Pouvez-vous parler plus lentement ?"
+      ]
+    },
+    {
+      "word": "comprendre",
+      "translation": "to understand",
+      "meaning": "To know the meaning of something.",
+      "level": "A1",
+      "sentences": [
+        "Je ne comprends pas la question.",
+        "Tu comprends cette phrase ?"
+      ]
+    },
+    {
+      "word": "savoir",
+      "translation": "to know",
+      "meaning": "To have information or knowledge about something.",
+      "level": "A1",
+      "sentences": [
+        "Je ne sais pas la réponse.",
+        "Tu sais où est la gare ?"
+      ]
+    },
+    {
+      "word": "voir",
+      "translation": "to see",
+      "meaning": "To notice something with the eyes.",
+      "level": "A1",
+      "sentences": [
+        "Je vois le bus arriver.",
+        "On se voit demain."
+      ]
+    },
+    {
+      "word": "entendre",
+      "translation": "to hear",
+      "meaning": "To notice sound with the ears.",
+      "level": "A1",
+      "sentences": [
+        "J'entends de la musique.",
+        "Tu entends ce bruit ?"
+      ]
+    },
+    {
+      "word": "lire",
+      "translation": "to read",
+      "meaning": "To look at and understand written words.",
+      "level": "A1",
+      "sentences": [
+        "Je lis un livre le soir.",
+        "Tu peux lire ce message ?"
+      ]
+    },
+    {
+      "word": "écrire",
+      "translation": "to write",
+      "meaning": "To form words, letters, or symbols on a surface or screen.",
+      "level": "A1",
+      "sentences": [
+        "J'écris un e-mail.",
+        "Écris-moi ton adresse, s'il te plaît."
+      ]
+    },
+    {
+      "word": "travailler",
+      "translation": "to work",
+      "meaning": "To do a job or perform a task.",
+      "level": "A1",
+      "sentences": [
+        "Je travaille du lundi au vendredi.",
+        "Elle travaille dans un hôpital."
+      ]
+    },
+    {
+      "word": "acheter",
+      "translation": "to buy",
+      "meaning": "To get something by paying money for it.",
+      "level": "A1",
+      "sentences": [
+        "J'achète du pain à la boulangerie.",
+        "Tu achètes des légumes aujourd'hui ?"
+      ]
+    },
+    {
+      "word": "avoir besoin",
+      "translation": "to need",
+      "meaning": "To require something because it is necessary.",
+      "level": "A1",
+      "sentences": [
+        "J'ai besoin de ton aide.",
+        "Nous avons besoin de plus de temps."
+      ]
+    },
+    {
+      "word": "vouloir",
+      "translation": "to want",
+      "meaning": "To wish for something or desire to do something.",
+      "level": "A1",
+      "sentences": [
+        "Je veux rentrer à la maison.",
+        "Qu'est-ce que tu veux boire ?"
+      ]
+    },
+    {
+      "word": "pouvoir",
+      "translation": "can / to be able to",
+      "meaning": "To have the ability or possibility to do something.",
+      "level": "A1",
+      "sentences": [
+        "Je peux venir demain.",
+        "Tu peux m'aider ?"
+      ]
+    },
+    {
+      "word": "devoir",
+      "translation": "must / to have to",
+      "meaning": "To be required or obliged to do something.",
+      "level": "A1",
+      "sentences": [
+        "Je dois travailler aujourd'hui.",
+        "Nous devons partir maintenant."
+      ]
+    },
+    {
+      "word": "Maison",
+      "translation": "house",
+      "meaning": "A building where people live.",
+      "level": "A1",
+      "sentences": [
+        "Ma maison est près d'ici.",
+        "Je reste à la maison ce soir."
+      ]
+    },
+    {
+      "word": "Appartement",
+      "translation": "apartment",
+      "meaning": "A set of rooms used as a home inside a larger building.",
+      "level": "A1",
+      "sentences": [
+        "Mon appartement est petit mais lumineux.",
+        "Je cherche un appartement près du métro."
+      ]
+    },
+    {
+      "word": "Chambre",
+      "translation": "room / bedroom",
+      "meaning": "A room used for sleeping or a separate area inside a building.",
+      "level": "A1",
+      "sentences": [
+        "Ma chambre est au deuxième étage.",
+        "La chambre d'hôtel est très propre."
+      ]
+    },
+    {
+      "word": "Eau",
+      "translation": "water",
+      "meaning": "A clear liquid that all living things need to survive.",
+      "level": "A1",
+      "sentences": [
+        "Je bois un verre d'eau le matin.",
+        "Je peux avoir de l'eau, s'il vous plaît ?"
+      ]
+    },
+    {
+      "word": "Pain",
+      "translation": "bread",
+      "meaning": "A common food made from flour and water, usually baked.",
+      "level": "A1",
+      "sentences": [
+        "J'achète du pain frais à la boulangerie.",
+        "Au petit déjeuner, je mange du pain avec du fromage."
+      ]
+    },
+    {
+      "word": "Café",
+      "translation": "coffee",
+      "meaning": "A drink made from roasted coffee beans.",
+      "level": "A1",
+      "sentences": [
+        "Je bois du café tous les matins.",
+        "Tu veux un café ?"
+      ]
+    },
+    {
+      "word": "Lait",
+      "translation": "milk",
+      "meaning": "A white liquid commonly used as a drink or ingredient.",
+      "level": "A1",
+      "sentences": [
+        "Je mets du lait dans mon café.",
+        "Le lait est dans le réfrigérateur."
+      ]
+    },
+    {
+      "word": "Pomme",
+      "translation": "apple",
+      "meaning": "A round fruit with firm flesh and red, green, or yellow skin.",
+      "level": "A1",
+      "sentences": [
+        "Je mange une pomme après le déjeuner.",
+        "Cette pomme est très sucrée."
+      ]
+    },
+    {
+      "word": "Voiture",
+      "translation": "car",
+      "meaning": "A road vehicle with an engine used to carry people.",
+      "level": "A1",
+      "sentences": [
+        "Ma voiture est devant la maison.",
+        "Nous allons au travail en voiture."
+      ]
+    },
+    {
+      "word": "Bus",
+      "translation": "bus",
+      "meaning": "A large road vehicle that carries many passengers.",
+      "level": "A1",
+      "sentences": [
+        "Le bus arrive dans cinq minutes.",
+        "Je prends le bus tous les matins."
+      ]
+    },
+    {
+      "word": "Train",
+      "translation": "train",
+      "meaning": "A vehicle made of connected carriages that travels on rails.",
+      "level": "A1",
+      "sentences": [
+        "Le train pour Lyon est à l'heure.",
+        "Je prends le train de huit heures."
+      ]
+    },
+    {
+      "word": "Gare",
+      "translation": "train station",
+      "meaning": "A place where trains stop for passengers.",
+      "level": "A1",
+      "sentences": [
+        "La gare est près d'ici.",
+        "On se retrouve devant la gare."
+      ]
+    },
+    {
+      "word": "École",
+      "translation": "school",
+      "meaning": "A place where people, especially children, go to learn.",
+      "level": "A1",
+      "sentences": [
+        "Les enfants vont à l'école tous les jours.",
+        "Mon école commence à huit heures."
+      ]
+    },
+    {
+      "word": "Travail",
+      "translation": "work / job",
+      "meaning": "An activity done to earn money or complete a task.",
+      "level": "A1",
+      "sentences": [
+        "Mon travail commence tôt le matin.",
+        "Après le travail, je vais à la salle de sport."
+      ]
+    },
+    {
+      "word": "Ami",
+      "translation": "friend",
+      "meaning": "A person you know well and like.",
+      "level": "A1",
+      "sentences": [
+        "Mon ami habite à Marseille.",
+        "Je vois un ami au parc aujourd'hui."
+      ]
+    },
+    {
+      "word": "Famille",
+      "translation": "family",
+      "meaning": "A group of people related by birth, marriage, or close connection.",
+      "level": "A1",
+      "sentences": [
+        "Ma famille vit au Brésil.",
+        "Le dimanche, je mange avec ma famille."
+      ]
+    },
+    {
+      "word": "Enfant",
+      "translation": "child",
+      "meaning": "A young person who is not yet an adult.",
+      "level": "A1",
+      "sentences": [
+        "L'enfant joue dans le jardin.",
+        "Chaque enfant a besoin d'attention."
+      ]
+    },
+    {
+      "word": "Homme",
+      "translation": "man",
+      "meaning": "An adult male person.",
+      "level": "A1",
+      "sentences": [
+        "L'homme attend à l'arrêt de bus.",
+        "Cet homme parle très vite."
+      ]
+    },
+    {
+      "word": "Femme",
+      "translation": "woman",
+      "meaning": "An adult female person.",
+      "level": "A1",
+      "sentences": [
+        "La femme parle avec le médecin.",
+        "Cette femme travaille à la maison aujourd'hui."
+      ]
+    },
+    {
+      "word": "Jour",
+      "translation": "day",
+      "meaning": "A period of twenty-four hours.",
+      "level": "A1",
+      "sentences": [
+        "Aujourd'hui est un beau jour.",
+        "Je travaille tous les jours sauf le dimanche."
+      ]
+    },
+    {
+      "word": "Nuit",
+      "translation": "night",
+      "meaning": "The dark part of the day between evening and morning.",
+      "level": "A1",
+      "sentences": [
+        "La nuit est calme.",
+        "Je dors huit heures par nuit."
+      ]
+    },
+    {
+      "word": "Semaine",
+      "translation": "week",
+      "meaning": "A period of seven days.",
+      "level": "A1",
+      "sentences": [
+        "Cette semaine, j'ai beaucoup de travail.",
+        "La semaine prochaine, je vais à Paris."
+      ]
+    },
+    {
+      "word": "Année",
+      "translation": "year",
+      "meaning": "A period of twelve months.",
+      "level": "A1",
+      "sentences": [
+        "Cette année, j'apprends le français.",
+        "L'année prochaine, je visite ma famille."
+      ]
+    },
+    {
+      "word": "Temps",
+      "translation": "time / weather",
+      "meaning": "A word that can refer to time or weather conditions.",
+      "level": "A1",
+      "sentences": [
+        "Je n'ai pas le temps aujourd'hui.",
+        "Il fait beau temps ce matin."
+      ]
+    },
+    {
+      "word": "aujourd'hui",
+      "translation": "today",
+      "meaning": "The current day.",
+      "level": "A1",
+      "sentences": [
+        "Aujourd'hui, je reste à la maison.",
+        "Qu'est-ce que tu fais aujourd'hui ?"
+      ]
+    },
+    {
+      "word": "demain",
+      "translation": "tomorrow",
+      "meaning": "The day after today.",
+      "level": "A1",
+      "sentences": [
+        "Demain, je ne travaille pas.",
+        "On se voit demain matin."
+      ]
+    },
+    {
+      "word": "hier",
+      "translation": "yesterday",
+      "meaning": "The day before today.",
+      "level": "A1",
+      "sentences": [
+        "Hier, j'étais très fatigué.",
+        "J'ai beaucoup travaillé hier."
+      ]
+    },
+    {
+      "word": "maintenant",
+      "translation": "now",
+      "meaning": "At the present moment.",
+      "level": "A1",
+      "sentences": [
+        "Je dois partir maintenant.",
+        "Maintenant, je comprends le problème."
+      ]
+    },
+    {
+      "word": "toujours",
+      "translation": "always",
+      "meaning": "At all times or on every occasion.",
+      "level": "A1",
+      "sentences": [
+        "Il arrive toujours à l'heure.",
+        "Je bois toujours du café le matin."
+      ]
+    },
+    {
+      "word": "souvent",
+      "translation": "often",
+      "meaning": "Many times or frequently.",
+      "level": "A1",
+      "sentences": [
+        "Je vais souvent au cinéma.",
+        "Elle rend souvent visite à ses parents."
+      ]
+    },
+    {
+      "word": "parfois",
+      "translation": "sometimes",
+      "meaning": "On some occasions, but not always.",
+      "level": "A1",
+      "sentences": [
+        "Parfois, je mange au restaurant.",
+        "Je cours parfois le matin."
+      ]
+    },
+    {
+      "word": "jamais",
+      "translation": "never",
+      "meaning": "At no time or on no occasion.",
+      "level": "A1",
+      "sentences": [
+        "Je ne fume jamais.",
+        "Elle n'arrive jamais en retard."
+      ]
+    },
+    {
+      "word": "bon",
+      "translation": "good",
+      "meaning": "Having a positive quality or being satisfactory.",
+      "level": "A1",
+      "sentences": [
+        "Le repas est très bon.",
+        "C'est une bonne idée."
+      ]
+    },
+    {
+      "word": "mauvais",
+      "translation": "bad",
+      "meaning": "Having a negative quality or being unsatisfactory.",
+      "level": "A1",
+      "sentences": [
+        "Le temps est mauvais aujourd'hui.",
+        "J'ai une mauvaise nouvelle."
+      ]
+    },
+    {
+      "word": "grand",
+      "translation": "big / tall",
+      "meaning": "Large in size or great in height.",
+      "level": "A1",
+      "sentences": [
+        "L'appartement est très grand.",
+        "Mon frère est plus grand que moi."
+      ]
+    },
+    {
+      "word": "petit",
+      "translation": "small",
+      "meaning": "Not large in size.",
+      "level": "A1",
+      "sentences": [
+        "Le restaurant est petit mais agréable.",
+        "J'ai un petit chien."
+      ]
+    },
+    {
+      "word": "beau",
+      "translation": "beautiful / nice",
+      "meaning": "Pleasant, attractive, or enjoyable.",
+      "level": "A1",
+      "sentences": [
+        "C'est une belle photo.",
+        "Nous avons passé une belle soirée."
+      ]
+    },
+    {
+      "word": "nouveau",
+      "translation": "new",
+      "meaning": "Recently made, created, or obtained.",
+      "level": "A1",
+      "sentences": [
+        "J'ai un nouveau téléphone.",
+        "Le nouveau film est intéressant."
+      ]
+    },
+    {
+      "word": "vieux",
+      "translation": "old",
+      "meaning": "Having existed for a long time.",
+      "level": "A1",
+      "sentences": [
+        "Ma voiture est vieille.",
+        "Quel âge a ce bâtiment ?"
+      ]
+    },
+    {
+      "word": "rapide",
+      "translation": "fast",
+      "meaning": "Moving or happening quickly.",
+      "level": "A1",
+      "sentences": [
+        "Le train est très rapide.",
+        "Elle répond rapidement aux messages."
+      ]
+    },
+    {
+      "word": "lent",
+      "translation": "slow",
+      "meaning": "Moving or happening with little speed.",
+      "level": "A1",
+      "sentences": [
+        "Le service est lent aujourd'hui.",
+        "Parle plus lentement, s'il te plaît."
+      ]
+    },
+    {
+      "word": "chaud",
+      "translation": "hot / warm",
+      "meaning": "Having a high or comfortably high temperature.",
+      "level": "A1",
+      "sentences": [
+        "Le café est encore chaud.",
+        "Il fait chaud aujourd'hui."
+      ]
+    },
+    {
+      "word": "froid",
+      "translation": "cold",
+      "meaning": "Having a low temperature.",
+      "level": "A1",
+      "sentences": [
+        "L'eau est froide.",
+        "J'ai froid ce matin."
+      ]
+    },
+    {
+      "word": "et",
+      "translation": "and",
+      "meaning": "A word used to connect words, phrases, or ideas.",
+      "level": "A1",
+      "sentences": [
+        "Je bois du café et je mange du pain.",
+        "Ma mère et mon père habitent ici."
+      ]
+    },
+    {
+      "word": "ou",
+      "translation": "or",
+      "meaning": "A word used to show a choice between possibilities.",
+      "level": "A1",
+      "sentences": [
+        "Tu veux du thé ou du café ?",
+        "On part aujourd'hui ou demain ?"
+      ]
+    },
+    {
+      "word": "mais",
+      "translation": "but",
+      "meaning": "A word used to introduce a contrast.",
+      "level": "A1",
+      "sentences": [
+        "Je veux venir, mais je n'ai pas le temps.",
+        "La chambre est petite, mais confortable."
+      ]
+    },
+    {
+      "word": "parce que",
+      "translation": "because",
+      "meaning": "A phrase used to introduce a reason.",
+      "level": "A1",
+      "sentences": [
+        "Je reste à la maison parce que je suis fatigué.",
+        "Elle apprend le français parce qu'elle veut travailler en France."
+      ]
+    },
+    {
+      "word": "avec",
+      "translation": "with",
+      "meaning": "A word used to show accompaniment or connection.",
+      "level": "A1",
+      "sentences": [
+        "Je vais au cinéma avec mon ami.",
+        "Je prends mon café avec du lait."
+      ]
+    },
+    {
+      "word": "sans",
+      "translation": "without",
+      "meaning": "A word used to show absence or lack.",
+      "level": "A1",
+      "sentences": [
+        "Je bois du café sans sucre.",
+        "Je ne sors pas sans mon téléphone."
+      ]
+    },
+    {
+      "word": "pour",
+      "translation": "for",
+      "meaning": "A word used to show purpose, benefit, or recipient.",
+      "level": "A1",
+      "sentences": [
+        "Ce cadeau est pour toi.",
+        "J'apprends le français pour mon travail."
+      ]
+    },
+    {
+      "word": "dans",
+      "translation": "in",
+      "meaning": "A word used to show position inside a place or period of time.",
+      "level": "A1",
+      "sentences": [
+        "J'habite dans une grande ville.",
+        "Les clés sont dans mon sac."
+      ]
+    },
+    {
+      "word": "sur",
+      "translation": "on",
+      "meaning": "A word used to show position on a surface.",
+      "level": "A1",
+      "sentences": [
+        "Le livre est sur la table.",
+        "On se retrouve sur la place."
+      ]
+    },
+    {
+      "word": "sous",
+      "translation": "under",
+      "meaning": "A word used to show position below something.",
+      "level": "A1",
+      "sentences": [
+        "Le sac est sous la chaise.",
+        "Le chat dort sous le lit."
+      ]
+    },
+    {
+      "word": "de",
+      "translation": "from / of",
+      "meaning": "A word used to show origin, source, or possession.",
+      "level": "A1",
+      "sentences": [
+        "Je viens de Rio.",
+        "C'est le téléphone de mon frère."
+      ]
+    },
+    {
+      "word": "à",
+      "translation": "to / at",
+      "meaning": "A word used to show direction, destination, or location.",
+      "level": "A1",
+      "sentences": [
+        "Je vais à l'école.",
+        "On se retrouve à huit heures."
+      ]
+    },
+    {
+      "word": "Ville",
+      "translation": "city",
+      "meaning": "A large urban area with many people and buildings.",
+      "level": "A1",
+      "sentences": [
+        "Paris est une grande ville.",
+        "J'habite dans une petite ville."
+      ]
+    },
+    {
+      "word": "Rue",
+      "translation": "street",
+      "meaning": "A public road in a town or city.",
+      "level": "A1",
+      "sentences": [
+        "La rue est très bruyante.",
+        "Nous traversons la rue au feu."
+      ]
+    },
+    {
+      "word": "Restaurant",
+      "translation": "restaurant",
+      "meaning": "A place where people pay to sit and eat prepared meals.",
+      "level": "A1",
+      "sentences": [
+        "Nous mangeons au restaurant ce soir.",
+        "Le restaurant est complet le samedi."
+      ]
+    },
+    {
+      "word": "Hôtel",
+      "translation": "hotel",
+      "meaning": "A place where people pay to stay temporarily.",
+      "level": "A1",
+      "sentences": [
+        "Notre hôtel est dans le centre.",
+        "Je réserve un hôtel pour deux nuits."
+      ]
+    },
+    {
+      "word": "Livre",
+      "translation": "book",
+      "meaning": "A set of written or printed pages bound together.",
+      "level": "A1",
+      "sentences": [
+        "Je lis un livre intéressant.",
+        "Tu peux me prêter ce livre ?"
+      ]
+    },
+    {
+      "word": "Argent",
+      "translation": "money",
+      "meaning": "Coins, notes, or digital value used to buy goods and services.",
+      "level": "A1",
+      "sentences": [
+        "Je n'ai pas assez d'argent.",
+        "Il économise de l'argent pour un voyage."
+      ]
+    },
+    {
+      "word": "Téléphone",
+      "translation": "phone",
+      "meaning": "A device used to speak with people over a distance.",
+      "level": "A1",
+      "sentences": [
+        "Mon téléphone n'a presque plus de batterie.",
+        "Tu peux me donner ton numéro de téléphone ?"
+      ]
+    },
+    {
+      "word": "Musique",
+      "translation": "music",
+      "meaning": "Sounds arranged in a way that is pleasant or meaningful to hear.",
+      "level": "A1",
+      "sentences": [
+        "J'écoute de la musique en étudiant.",
+        "Quelle musique est-ce que tu aimes ?"
+      ]
+    },
+    {
+      "word": "Film",
+      "translation": "movie",
+      "meaning": "A story or event recorded as moving images.",
+      "level": "A1",
+      "sentences": [
+        "Le film commence à huit heures.",
+        "On regarde un film ce soir."
+      ]
+    },
+    {
+      "word": "Excusez-moi",
+      "translation": "excuse me / sorry",
+      "meaning": "A polite expression used to apologize or get someone's attention.",
+      "level": "A1",
+      "sentences": [
+        "Excusez-moi, où est la gare ?",
+        "Excusez-moi, je suis en retard."
+      ]
+    },
+    {
+      "word": "Nom",
+      "translation": "name",
+      "meaning": "A word or set of words used to identify a person, place, or thing.",
+      "level": "A1",
+      "sentences": [
+        "Quel est ton nom ?",
+        "Mon nom est sur le formulaire."
+      ]
+    },
+    {
+      "word": "Question",
+      "translation": "question",
+      "meaning": "A sentence or phrase used to ask for information.",
+      "level": "A1",
+      "sentences": [
+        "J'ai une question.",
+        "La question est importante."
+      ]
+    },
+    {
+      "word": "Réponse",
+      "translation": "answer",
+      "meaning": "A response to a question.",
+      "level": "A1",
+      "sentences": [
+        "Tu connais la réponse ?",
+        "Sa réponse est très claire."
+      ]
+    }
+  ]
+}

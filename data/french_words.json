@@ -1,0 +1,136 @@
+{
+  "words": [
+    {
+      "word": "Bonjour",
+      "translation": "hello",
+      "meaning": "A common greeting used during the day.",
+      "sentences": ["Bonjour, comment allez-vous ?", "Bonjour tout le monde."]
+    },
+    {
+      "word": "Merci",
+      "translation": "thank you",
+      "meaning": "An expression used to show gratitude.",
+      "sentences": ["Merci pour votre aide.", "Merci beaucoup !"]
+    },
+    {
+      "word": "S'il vous plaît",
+      "translation": "please",
+      "meaning": "A polite expression used when making a request.",
+      "sentences": [
+        "Pouvez-vous m'aider, s'il vous plaît ?",
+        "Un café, s'il vous plaît."
+      ]
+    },
+    {
+      "word": "Maison",
+      "translation": "house",
+      "meaning": "A building where people live.",
+      "sentences": ["La maison est très grande.", "Je rentre à la maison."]
+    },
+    {
+      "word": "Eau",
+      "translation": "water",
+      "meaning": "A clear liquid essential for life.",
+      "sentences": ["Je bois beaucoup d'eau.", "L'eau est froide."]
+    },
+    {
+      "word": "Livre",
+      "translation": "book",
+      "meaning": "A collection of written pages bound together.",
+      "sentences": ["Je lis un livre intéressant.", "Ce livre est excellent."]
+    },
+    {
+      "word": "Ami",
+      "translation": "friend",
+      "meaning": "A person you know well and like.",
+      "sentences": ["Mon ami habite à Paris.", "Je vais voir un ami."]
+    },
+    {
+      "word": "École",
+      "translation": "school",
+      "meaning": "A place where people study.",
+      "sentences": ["Les enfants vont à l'école.", "Mon école est près d'ici."]
+    },
+    {
+      "word": "Travail",
+      "translation": "work / job",
+      "meaning": "An activity performed to earn money or accomplish tasks.",
+      "sentences": [
+        "Je vais au travail.",
+        "J'ai beaucoup de travail aujourd'hui."
+      ]
+    },
+    {
+      "word": "Famille",
+      "translation": "family",
+      "meaning": "People related to one another.",
+      "sentences": [
+        "Ma famille est très importante.",
+        "Nous visitons notre famille demain."
+      ]
+    },
+    {
+      "word": "Manger",
+      "translation": "to eat",
+      "meaning": "To consume food.",
+      "sentences": [
+        "Nous allons manger maintenant.",
+        "J'aime manger des fruits."
+      ]
+    },
+    {
+      "word": "Boire",
+      "translation": "to drink",
+      "meaning": "To consume liquids.",
+      "sentences": ["Je bois de l'eau.", "Elle aime boire du café."]
+    },
+    {
+      "word": "Aller",
+      "translation": "to go",
+      "meaning": "To move from one place to another.",
+      "sentences": ["Je vais à l'école.", "Nous allons au cinéma."]
+    },
+    {
+      "word": "Parler",
+      "translation": "to speak",
+      "meaning": "To communicate using words.",
+      "sentences": ["Je parle français.", "Parlez-vous anglais ?"]
+    },
+    {
+      "word": "Comprendre",
+      "translation": "to understand",
+      "meaning": "To grasp the meaning of something.",
+      "sentences": ["Je comprends la question.", "Tu comprends cette phrase ?"]
+    },
+    {
+      "word": "Grand",
+      "translation": "big / tall",
+      "meaning": "Having a large size or height.",
+      "sentences": ["Le bâtiment est très grand.", "Mon frère est grand."]
+    },
+    {
+      "word": "Petit",
+      "translation": "small",
+      "meaning": "Having a small size.",
+      "sentences": ["Le chat est petit.", "J'habite dans un petit appartement."]
+    },
+    {
+      "word": "Beau",
+      "translation": "beautiful",
+      "meaning": "Pleasing to the eye.",
+      "sentences": ["Quel beau paysage !", "C'est un très beau jardin."]
+    },
+    {
+      "word": "Rapide",
+      "translation": "fast",
+      "meaning": "Moving or happening quickly.",
+      "sentences": ["Le train est très rapide.", "Elle court très rapidement."]
+    },
+    {
+      "word": "Aujourd'hui",
+      "translation": "today",
+      "meaning": "The current day.",
+      "sentences": ["Aujourd'hui, il fait beau.", "Que fais-tu aujourd'hui ?"]
+    }
+  ]
+}

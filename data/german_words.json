@@ -4,37 +4,25 @@
       "word": "Hallo",
       "translation": "hello",
       "meaning": "An informal greeting used to say hi to someone.",
-      "sentences": [
-        "Hallo, wie geht es dir?",
-        "Hallo! Schön, dich zu sehen."
-      ]
+      "sentences": ["Hallo, wie geht es dir?", "Hallo! Schön, dich zu sehen."]
     },
     {
       "word": "Danke",
       "translation": "thank you",
       "meaning": "An expression used to thank someone.",
-      "sentences": [
-        "Danke für deine Hilfe.",
-        "Vielen Danke für das Geschenk."
-      ]
+      "sentences": ["Danke für deine Hilfe.", "Vielen Danke für das Geschenk."]
     },
     {
       "word": "Bitte",
       "translation": "please / you're welcome",
       "meaning": "Used to politely ask for something or to respond to thanks.",
-      "sentences": [
-        "Kannst du mir bitte helfen?",
-        "Danke! - Bitte schön!"
-      ]
+      "sentences": ["Kannst du mir bitte helfen?", "Danke! - Bitte schön!"]
     },
     {
       "word": "Haus",
       "translation": "house",
       "meaning": "A building where people live.",
-      "sentences": [
-        "Das Haus ist sehr groß.",
-        "Ich gehe jetzt nach Hause."
-      ]
+      "sentences": ["Das Haus ist sehr groß.", "Ich gehe jetzt nach Hause."]
     },
     {
       "word": "Wasser",
@@ -292,10 +280,7 @@
       "word": "gut",
       "translation": "good",
       "meaning": "An adjective indicating positive quality.",
-      "sentences": [
-        "Das Essen war sehr gut.",
-        "Mir geht es gut, danke."
-      ]
+      "sentences": ["Das Essen war sehr gut.", "Mir geht es gut, danke."]
     },
     {
       "word": "schlecht",
@@ -328,10 +313,7 @@
       "word": "heute",
       "translation": "today",
       "meaning": "An adverb referring to the current day.",
-      "sentences": [
-        "Heute ist Montag.",
-        "Was machst du heute Abend?"
-      ]
+      "sentences": ["Heute ist Montag.", "Was machst du heute Abend?"]
     },
     {
       "word": "morgen",
@@ -355,10 +337,7 @@
       "word": "nie",
       "translation": "never",
       "meaning": "An adverb indicating that something never happens.",
-      "sentences": [
-        "Ich rauche nie.",
-        "Sie kommt nie zu spät."
-      ]
+      "sentences": ["Ich rauche nie.", "Sie kommt nie zu spät."]
     }
   ]
 }
