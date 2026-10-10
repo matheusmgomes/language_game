@@ -1,0 +1,1374 @@
+{
+  "words": [
+    {
+      "word": "swim",
+      "translation": "",
+      "meaning": "Base form: swim; Past simple: swam; Past participle: swum.",
+      "level": "",
+      "sentences": [],
+      "base": "swim",
+      "past": "swam",
+      "participle": "swum"
+    },
+    {
+      "word": "buy",
+      "translation": "",
+      "meaning": "Base form: buy; Past simple: bought; Past participle: bought.",
+      "level": "",
+      "sentences": [],
+      "base": "buy",
+      "past": "bought",
+      "participle": "bought"
+    },
+    {
+      "word": "work",
+      "translation": "",
+      "meaning": "Base form: work; Past simple: worked; Past participle: worked.",
+      "level": "",
+      "sentences": [],
+      "base": "work",
+      "past": "worked",
+      "participle": "worked"
+    },
+    {
+      "word": "forget",
+      "translation": "",
+      "meaning": "Base form: forget; Past simple: forgot; Past participle: forgotten.",
+      "level": "",
+      "sentences": [],
+      "base": "forget",
+      "past": "forgot",
+      "participle": "forgotten"
+    },
+    {
+      "word": "hit",
+      "translation": "",
+      "meaning": "Base form: hit; Past simple: hit; Past participle: hit.",
+      "level": "",
+      "sentences": [],
+      "base": "hit",
+      "past": "hit",
+      "participle": "hit"
+    },
+    {
+      "word": "teach",
+      "translation": "",
+      "meaning": "Base form: teach; Past simple: taught; Past participle: taught.",
+      "level": "",
+      "sentences": [],
+      "base": "teach",
+      "past": "taught",
+      "participle": "taught"
+    },
+    {
+      "word": "wake",
+      "translation": "",
+      "meaning": "Base form: wake; Past simple: woke; Past participle: woken.",
+      "level": "",
+      "sentences": [],
+      "base": "wake",
+      "past": "woke",
+      "participle": "woken"
+    },
+    {
+      "word": "play",
+      "translation": "",
+      "meaning": "Base form: play; Past simple: played; Past participle: played.",
+      "level": "",
+      "sentences": [],
+      "base": "play",
+      "past": "played",
+      "participle": "played"
+    },
+    {
+      "word": "break",
+      "translation": "",
+      "meaning": "Base form: break; Past simple: broke; Past participle: broken.",
+      "level": "",
+      "sentences": [],
+      "base": "break",
+      "past": "broke",
+      "participle": "broken"
+    },
+    {
+      "word": "lend",
+      "translation": "",
+      "meaning": "Base form: lend; Past simple: lent; Past participle: lent.",
+      "level": "",
+      "sentences": [],
+      "base": "lend",
+      "past": "lent",
+      "participle": "lent"
+    },
+    {
+      "word": "understand",
+      "translation": "",
+      "meaning": "Base form: understand; Past simple: understood; Past participle: understood.",
+      "level": "",
+      "sentences": [],
+      "base": "understand",
+      "past": "understood",
+      "participle": "understood"
+    },
+    {
+      "word": "sit",
+      "translation": "",
+      "meaning": "Base form: sit; Past simple: sat; Past participle: sat.",
+      "level": "",
+      "sentences": [],
+      "base": "sit",
+      "past": "sat",
+      "participle": "sat"
+    },
+    {
+      "word": "try",
+      "translation": "",
+      "meaning": "Base form: try; Past simple: tried; Past participle: tried.",
+      "level": "",
+      "sentences": [],
+      "base": "try",
+      "past": "tried",
+      "participle": "tried"
+    },
+    {
+      "word": "drive",
+      "translation": "",
+      "meaning": "Base form: drive; Past simple: drove; Past participle: driven.",
+      "level": "",
+      "sentences": [],
+      "base": "drive",
+      "past": "drove",
+      "participle": "driven"
+    },
+    {
+      "word": "tell",
+      "translation": "",
+      "meaning": "Base form: tell; Past simple: told; Past participle: told.",
+      "level": "",
+      "sentences": [],
+      "base": "tell",
+      "past": "told",
+      "participle": "told"
+    },
+    {
+      "word": "bend",
+      "translation": "",
+      "meaning": "Base form: bend; Past simple: bent; Past participle: bent.",
+      "level": "",
+      "sentences": [],
+      "base": "bend",
+      "past": "bent",
+      "participle": "bent"
+    },
+    {
+      "word": "cook",
+      "translation": "",
+      "meaning": "Base form: cook; Past simple: cooked; Past participle: cooked.",
+      "level": "",
+      "sentences": [],
+      "base": "cook",
+      "past": "cooked",
+      "participle": "cooked"
+    },
+    {
+      "word": "hurt",
+      "translation": "",
+      "meaning": "Base form: hurt; Past simple: hurt; Past participle: hurt.",
+      "level": "",
+      "sentences": [],
+      "base": "hurt",
+      "past": "hurt",
+      "participle": "hurt"
+    },
+    {
+      "word": "fly",
+      "translation": "",
+      "meaning": "Base form: fly; Past simple: flew; Past participle: flown.",
+      "level": "",
+      "sentences": [],
+      "base": "fly",
+      "past": "flew",
+      "participle": "flown"
+    },
+    {
+      "word": "spend",
+      "translation": "",
+      "meaning": "Base form: spend; Past simple: spent; Past participle: spent.",
+      "level": "",
+      "sentences": [],
+      "base": "spend",
+      "past": "spent",
+      "participle": "spent"
+    },
+    {
+      "word": "love",
+      "translation": "",
+      "meaning": "Base form: love; Past simple: loved; Past participle: loved.",
+      "level": "",
+      "sentences": [],
+      "base": "love",
+      "past": "loved",
+      "participle": "loved"
+    },
+    {
+      "word": "shake",
+      "translation": "",
+      "meaning": "Base form: shake; Past simple: shook; Past participle: shaken.",
+      "level": "",
+      "sentences": [],
+      "base": "shake",
+      "past": "shook",
+      "participle": "shaken"
+    },
+    {
+      "word": "let",
+      "translation": "",
+      "meaning": "Base form: let; Past simple: let; Past participle: let.",
+      "level": "",
+      "sentences": [],
+      "base": "let",
+      "past": "let",
+      "participle": "let"
+    },
+    {
+      "word": "begin",
+      "translation": "",
+      "meaning": "Base form: begin; Past simple: began; Past participle: begun.",
+      "level": "",
+      "sentences": [],
+      "base": "begin",
+      "past": "began",
+      "participle": "begun"
+    },
+    {
+      "word": "steal",
+      "translation": "",
+      "meaning": "Base form: steal; Past simple: stole; Past participle: stolen.",
+      "level": "",
+      "sentences": [],
+      "base": "steal",
+      "past": "stole",
+      "participle": "stolen"
+    },
+    {
+      "word": "ask",
+      "translation": "",
+      "meaning": "Base form: ask; Past simple: asked; Past participle: asked.",
+      "level": "",
+      "sentences": [],
+      "base": "ask",
+      "past": "asked",
+      "participle": "asked"
+    },
+    {
+      "word": "sleep",
+      "translation": "",
+      "meaning": "Base form: sleep; Past simple: slept; Past participle: slept.",
+      "level": "",
+      "sentences": [],
+      "base": "sleep",
+      "past": "slept",
+      "participle": "slept"
+    },
+    {
+      "word": "put",
+      "translation": "",
+      "meaning": "Base form: put; Past simple: put; Past participle: put.",
+      "level": "",
+      "sentences": [],
+      "base": "put",
+      "past": "put",
+      "participle": "put"
+    },
+    {
+      "word": "grow",
+      "translation": "",
+      "meaning": "Base form: grow; Past simple: grew; Past participle: grown.",
+      "level": "",
+      "sentences": [],
+      "base": "grow",
+      "past": "grew",
+      "participle": "grown"
+    },
+    {
+      "word": "withdraw",
+      "translation": "",
+      "meaning": "Base form: withdraw; Past simple: withdrew; Past participle: withdrawn.",
+      "level": "",
+      "sentences": [],
+      "base": "withdraw",
+      "past": "withdrew",
+      "participle": "withdrawn"
+    },
+    {
+      "word": "call",
+      "translation": "",
+      "meaning": "Base form: call; Past simple: called; Past participle: called.",
+      "level": "",
+      "sentences": [],
+      "base": "call",
+      "past": "called",
+      "participle": "called"
+    },
+    {
+      "word": "sing",
+      "translation": "",
+      "meaning": "Base form: sing; Past simple: sang; Past participle: sung.",
+      "level": "",
+      "sentences": [],
+      "base": "sing",
+      "past": "sang",
+      "participle": "sung"
+    },
+    {
+      "word": "deal",
+      "translation": "",
+      "meaning": "Base form: deal; Past simple: dealt; Past participle: dealt.",
+      "level": "",
+      "sentences": [],
+      "base": "deal",
+      "past": "dealt",
+      "participle": "dealt"
+    },
+    {
+      "word": "lie",
+      "translation": "",
+      "meaning": "Base form: lie; Past simple: lay; Past participle: lain.",
+      "level": "",
+      "sentences": [],
+      "base": "lie",
+      "past": "lay",
+      "participle": "lain"
+    },
+    {
+      "word": "wear",
+      "translation": "",
+      "meaning": "Base form: wear; Past simple: wore; Past participle: worn.",
+      "level": "",
+      "sentences": [],
+      "base": "wear",
+      "past": "wore",
+      "participle": "worn"
+    },
+    {
+      "word": "start",
+      "translation": "",
+      "meaning": "Base form: start; Past simple: started; Past participle: started.",
+      "level": "",
+      "sentences": [],
+      "base": "start",
+      "past": "started",
+      "participle": "started"
+    },
+    {
+      "word": "hold",
+      "translation": "",
+      "meaning": "Base form: hold; Past simple: held; Past participle: held.",
+      "level": "",
+      "sentences": [],
+      "base": "hold",
+      "past": "held",
+      "participle": "held"
+    },
+    {
+      "word": "draw",
+      "translation": "",
+      "meaning": "Base form: draw; Past simple: drew; Past participle: drawn.",
+      "level": "",
+      "sentences": [],
+      "base": "draw",
+      "past": "drew",
+      "participle": "drawn"
+    },
+    {
+      "word": "stick",
+      "translation": "",
+      "meaning": "Base form: stick; Past simple: stuck; Past participle: stuck.",
+      "level": "",
+      "sentences": [],
+      "base": "stick",
+      "past": "stuck",
+      "participle": "stuck"
+    },
+    {
+      "word": "be",
+      "translation": "",
+      "meaning": "Base form: be; Past simple: was/were; Past participle: been.",
+      "level": "",
+      "sentences": [],
+      "base": "be",
+      "past": "was/were",
+      "participle": "been"
+    },
+    {
+      "word": "win",
+      "translation": "",
+      "meaning": "Base form: win; Past simple: won; Past participle: won.",
+      "level": "",
+      "sentences": [],
+      "base": "win",
+      "past": "won",
+      "participle": "won"
+    },
+    {
+      "word": "close",
+      "translation": "",
+      "meaning": "Base form: close; Past simple: closed; Past participle: closed.",
+      "level": "",
+      "sentences": [],
+      "base": "close",
+      "past": "closed",
+      "participle": "closed"
+    },
+    {
+      "word": "sweep",
+      "translation": "",
+      "meaning": "Base form: sweep; Past simple: swept; Past participle: swept.",
+      "level": "",
+      "sentences": [],
+      "base": "sweep",
+      "past": "swept",
+      "participle": "swept"
+    },
+    {
+      "word": "find",
+      "translation": "",
+      "meaning": "Base form: find; Past simple: found; Past participle: found.",
+      "level": "",
+      "sentences": [],
+      "base": "find",
+      "past": "found",
+      "participle": "found"
+    },
+    {
+      "word": "spin",
+      "translation": "",
+      "meaning": "Base form: spin; Past simple: spun; Past participle: spun.",
+      "level": "",
+      "sentences": [],
+      "base": "spin",
+      "past": "spun",
+      "participle": "spun"
+    },
+    {
+      "word": "rise",
+      "translation": "",
+      "meaning": "Base form: rise; Past simple: rose; Past participle: risen.",
+      "level": "",
+      "sentences": [],
+      "base": "rise",
+      "past": "rose",
+      "participle": "risen"
+    },
+    {
+      "word": "eat",
+      "translation": "",
+      "meaning": "Base form: eat; Past simple: ate; Past participle: eaten.",
+      "level": "",
+      "sentences": [],
+      "base": "eat",
+      "past": "ate",
+      "participle": "eaten"
+    },
+    {
+      "word": "upset",
+      "translation": "",
+      "meaning": "Base form: upset; Past simple: upset; Past participle: upset.",
+      "level": "",
+      "sentences": [],
+      "base": "upset",
+      "past": "upset",
+      "participle": "upset"
+    },
+    {
+      "word": "blow",
+      "translation": "",
+      "meaning": "Base form: blow; Past simple: blew; Past participle: blown.",
+      "level": "",
+      "sentences": [],
+      "base": "blow",
+      "past": "blew",
+      "participle": "blown"
+    },
+    {
+      "word": "live",
+      "translation": "",
+      "meaning": "Base form: live; Past simple: lived; Past participle: lived.",
+      "level": "",
+      "sentences": [],
+      "base": "live",
+      "past": "lived",
+      "participle": "lived"
+    },
+    {
+      "word": "hear",
+      "translation": "",
+      "meaning": "Base form: hear; Past simple: heard; Past participle: heard.",
+      "level": "",
+      "sentences": [],
+      "base": "hear",
+      "past": "heard",
+      "participle": "heard"
+    },
+    {
+      "word": "ride",
+      "translation": "",
+      "meaning": "Base form: ride; Past simple: rode; Past participle: ridden.",
+      "level": "",
+      "sentences": [],
+      "base": "ride",
+      "past": "rode",
+      "participle": "ridden"
+    },
+    {
+      "word": "cut",
+      "translation": "",
+      "meaning": "Base form: cut; Past simple: cut; Past participle: cut.",
+      "level": "",
+      "sentences": [],
+      "base": "cut",
+      "past": "cut",
+      "participle": "cut"
+    },
+    {
+      "word": "swing",
+      "translation": "",
+      "meaning": "Base form: swing; Past simple: swung; Past participle: swung.",
+      "level": "",
+      "sentences": [],
+      "base": "swing",
+      "past": "swung",
+      "participle": "swung"
+    },
+    {
+      "word": "meet",
+      "translation": "",
+      "meaning": "Base form: meet; Past simple: met; Past participle: met.",
+      "level": "",
+      "sentences": [],
+      "base": "meet",
+      "past": "met",
+      "participle": "met"
+    },
+    {
+      "word": "answer",
+      "translation": "",
+      "meaning": "Base form: answer; Past simple: answered; Past participle: answered.",
+      "level": "",
+      "sentences": [],
+      "base": "answer",
+      "past": "answered",
+      "participle": "answered"
+    },
+    {
+      "word": "forbid",
+      "translation": "",
+      "meaning": "Base form: forbid; Past simple: forbade; Past participle: forbidden.",
+      "level": "",
+      "sentences": [],
+      "base": "forbid",
+      "past": "forbade",
+      "participle": "forbidden"
+    },
+    {
+      "word": "say",
+      "translation": "",
+      "meaning": "Base form: say; Past simple: said; Past participle: said.",
+      "level": "",
+      "sentences": [],
+      "base": "say",
+      "past": "said",
+      "participle": "said"
+    },
+    {
+      "word": "slide",
+      "translation": "",
+      "meaning": "Base form: slide; Past simple: slid; Past participle: slid.",
+      "level": "",
+      "sentences": [],
+      "base": "slide",
+      "past": "slid",
+      "participle": "slid"
+    },
+    {
+      "word": "choose",
+      "translation": "",
+      "meaning": "Base form: choose; Past simple: chose; Past participle: chosen.",
+      "level": "",
+      "sentences": [],
+      "base": "choose",
+      "past": "chose",
+      "participle": "chosen"
+    },
+    {
+      "word": "watch",
+      "translation": "",
+      "meaning": "Base form: watch; Past simple: watched; Past participle: watched.",
+      "level": "",
+      "sentences": [],
+      "base": "watch",
+      "past": "watched",
+      "participle": "watched"
+    },
+    {
+      "word": "bite",
+      "translation": "",
+      "meaning": "Base form: bite; Past simple: bit; Past participle: bitten.",
+      "level": "",
+      "sentences": [],
+      "base": "bite",
+      "past": "bit",
+      "participle": "bitten"
+    },
+    {
+      "word": "keep",
+      "translation": "",
+      "meaning": "Base form: keep; Past simple: kept; Past participle: kept.",
+      "level": "",
+      "sentences": [],
+      "base": "keep",
+      "past": "kept",
+      "participle": "kept"
+    },
+    {
+      "word": "throw",
+      "translation": "",
+      "meaning": "Base form: throw; Past simple: threw; Past participle: thrown.",
+      "level": "",
+      "sentences": [],
+      "base": "throw",
+      "past": "threw",
+      "participle": "thrown"
+    },
+    {
+      "word": "sink",
+      "translation": "",
+      "meaning": "Base form: sink; Past simple: sank; Past participle: sunk.",
+      "level": "",
+      "sentences": [],
+      "base": "sink",
+      "past": "sank",
+      "participle": "sunk"
+    },
+    {
+      "word": "open",
+      "translation": "",
+      "meaning": "Base form: open; Past simple: opened; Past participle: opened.",
+      "level": "",
+      "sentences": [],
+      "base": "open",
+      "past": "opened",
+      "participle": "opened"
+    },
+    {
+      "word": "read",
+      "translation": "",
+      "meaning": "Base form: read; Past simple: read; Past participle: read.",
+      "level": "",
+      "sentences": [],
+      "base": "read",
+      "past": "read",
+      "participle": "read"
+    },
+    {
+      "word": "beat",
+      "translation": "",
+      "meaning": "Base form: beat; Past simple: beat; Past participle: beaten.",
+      "level": "",
+      "sentences": [],
+      "base": "beat",
+      "past": "beat",
+      "participle": "beaten"
+    },
+    {
+      "word": "lose",
+      "translation": "",
+      "meaning": "Base form: lose; Past simple: lost; Past participle: lost.",
+      "level": "",
+      "sentences": [],
+      "base": "lose",
+      "past": "lost",
+      "participle": "lost"
+    },
+    {
+      "word": "shoot",
+      "translation": "",
+      "meaning": "Base form: shoot; Past simple: shot; Past participle: shot.",
+      "level": "",
+      "sentences": [],
+      "base": "shoot",
+      "past": "shot",
+      "participle": "shot"
+    },
+    {
+      "word": "fall",
+      "translation": "",
+      "meaning": "Base form: fall; Past simple: fell; Past participle: fallen.",
+      "level": "",
+      "sentences": [],
+      "base": "fall",
+      "past": "fell",
+      "participle": "fallen"
+    },
+    {
+      "word": "help",
+      "translation": "",
+      "meaning": "Base form: help; Past simple: helped; Past participle: helped.",
+      "level": "",
+      "sentences": [],
+      "base": "help",
+      "past": "helped",
+      "participle": "helped"
+    },
+    {
+      "word": "give",
+      "translation": "",
+      "meaning": "Base form: give; Past simple: gave; Past participle: given.",
+      "level": "",
+      "sentences": [],
+      "base": "give",
+      "past": "gave",
+      "participle": "given"
+    },
+    {
+      "word": "strike",
+      "translation": "",
+      "meaning": "Base form: strike; Past simple: struck; Past participle: struck.",
+      "level": "",
+      "sentences": [],
+      "base": "strike",
+      "past": "struck",
+      "participle": "struck"
+    },
+    {
+      "word": "travel",
+      "translation": "",
+      "meaning": "Base form: travel; Past simple: traveled; Past participle: traveled.",
+      "level": "",
+      "sentences": [],
+      "base": "travel",
+      "past": "traveled",
+      "participle": "traveled"
+    },
+    {
+      "word": "bet",
+      "translation": "",
+      "meaning": "Base form: bet; Past simple: bet; Past participle: bet.",
+      "level": "",
+      "sentences": [],
+      "base": "bet",
+      "past": "bet",
+      "participle": "bet"
+    },
+    {
+      "word": "mean",
+      "translation": "",
+      "meaning": "Base form: mean; Past simple: meant; Past participle: meant.",
+      "level": "",
+      "sentences": [],
+      "base": "mean",
+      "past": "meant",
+      "participle": "meant"
+    },
+    {
+      "word": "dig",
+      "translation": "",
+      "meaning": "Base form: dig; Past simple: dug; Past participle: dug.",
+      "level": "",
+      "sentences": [],
+      "base": "dig",
+      "past": "dug",
+      "participle": "dug"
+    },
+    {
+      "word": "weep",
+      "translation": "",
+      "meaning": "Base form: weep; Past simple: wept; Past participle: wept.",
+      "level": "",
+      "sentences": [],
+      "base": "weep",
+      "past": "wept",
+      "participle": "wept"
+    },
+    {
+      "word": "take",
+      "translation": "",
+      "meaning": "Base form: take; Past simple: took; Past participle: taken.",
+      "level": "",
+      "sentences": [],
+      "base": "take",
+      "past": "took",
+      "participle": "taken"
+    },
+    {
+      "word": "cost",
+      "translation": "",
+      "meaning": "Base form: cost; Past simple: cost; Past participle: cost.",
+      "level": "",
+      "sentences": [],
+      "base": "cost",
+      "past": "cost",
+      "participle": "cost"
+    },
+    {
+      "word": "light",
+      "translation": "",
+      "meaning": "Base form: light; Past simple: lit; Past participle: lit.",
+      "level": "",
+      "sentences": [],
+      "base": "light",
+      "past": "lit",
+      "participle": "lit"
+    },
+    {
+      "word": "write",
+      "translation": "",
+      "meaning": "Base form: write; Past simple: wrote; Past participle: written.",
+      "level": "",
+      "sentences": [],
+      "base": "write",
+      "past": "wrote",
+      "participle": "written"
+    },
+    {
+      "word": "bleed",
+      "translation": "",
+      "meaning": "Base form: bleed; Past simple: bled; Past participle: bled.",
+      "level": "",
+      "sentences": [],
+      "base": "bleed",
+      "past": "bled",
+      "participle": "bled"
+    },
+    {
+      "word": "study",
+      "translation": "",
+      "meaning": "Base form: study; Past simple: studied; Past participle: studied.",
+      "level": "",
+      "sentences": [],
+      "base": "study",
+      "past": "studied",
+      "participle": "studied"
+    },
+    {
+      "word": "split",
+      "translation": "",
+      "meaning": "Base form: split; Past simple: split; Past participle: split.",
+      "level": "",
+      "sentences": [],
+      "base": "split",
+      "past": "split",
+      "participle": "split"
+    },
+    {
+      "word": "hide",
+      "translation": "",
+      "meaning": "Base form: hide; Past simple: hid; Past participle: hidden.",
+      "level": "",
+      "sentences": [],
+      "base": "hide",
+      "past": "hid",
+      "participle": "hidden"
+    },
+    {
+      "word": "come",
+      "translation": "",
+      "meaning": "Base form: come; Past simple: came; Past participle: come.",
+      "level": "",
+      "sentences": [],
+      "base": "come",
+      "past": "came",
+      "participle": "come"
+    },
+    {
+      "word": "quit",
+      "translation": "",
+      "meaning": "Base form: quit; Past simple: quit; Past participle: quit.",
+      "level": "",
+      "sentences": [],
+      "base": "quit",
+      "past": "quit",
+      "participle": "quit"
+    },
+    {
+      "word": "sting",
+      "translation": "",
+      "meaning": "Base form: sting; Past simple: stung; Past participle: stung.",
+      "level": "",
+      "sentences": [],
+      "base": "sting",
+      "past": "stung",
+      "participle": "stung"
+    },
+    {
+      "word": "do",
+      "translation": "",
+      "meaning": "Base form: do; Past simple: did; Past participle: done.",
+      "level": "",
+      "sentences": [],
+      "base": "do",
+      "past": "did",
+      "participle": "done"
+    },
+    {
+      "word": "learn",
+      "translation": "",
+      "meaning": "Base form: learn; Past simple: learnt/learned; Past participle: learnt/learned.",
+      "level": "",
+      "sentences": [],
+      "base": "learn",
+      "past": "learnt/learned",
+      "participle": "learnt/learned"
+    },
+    {
+      "word": "stop",
+      "translation": "",
+      "meaning": "Base form: stop; Past simple: stopped; Past participle: stopped.",
+      "level": "",
+      "sentences": [],
+      "base": "stop",
+      "past": "stopped",
+      "participle": "stopped"
+    },
+    {
+      "word": "build",
+      "translation": "",
+      "meaning": "Base form: build; Past simple: built; Past participle: built.",
+      "level": "",
+      "sentences": [],
+      "base": "build",
+      "past": "built",
+      "participle": "built"
+    },
+    {
+      "word": "shut",
+      "translation": "",
+      "meaning": "Base form: shut; Past simple: shut; Past participle: shut.",
+      "level": "",
+      "sentences": [],
+      "base": "shut",
+      "past": "shut",
+      "participle": "shut"
+    },
+    {
+      "word": "feel",
+      "translation": "",
+      "meaning": "Base form: feel; Past simple: felt; Past participle: felt.",
+      "level": "",
+      "sentences": [],
+      "base": "feel",
+      "past": "felt",
+      "participle": "felt"
+    },
+    {
+      "word": "know",
+      "translation": "",
+      "meaning": "Base form: know; Past simple: knew; Past participle: known.",
+      "level": "",
+      "sentences": [],
+      "base": "know",
+      "past": "knew",
+      "participle": "known"
+    },
+    {
+      "word": "overcome",
+      "translation": "",
+      "meaning": "Base form: overcome; Past simple: overcame; Past participle: overcome.",
+      "level": "",
+      "sentences": [],
+      "base": "overcome",
+      "past": "overcame",
+      "participle": "overcome"
+    },
+    {
+      "word": "swear",
+      "translation": "",
+      "meaning": "Base form: swear; Past simple: swore; Past participle: sworn.",
+      "level": "",
+      "sentences": [],
+      "base": "swear",
+      "past": "swore",
+      "participle": "sworn"
+    },
+    {
+      "word": "get",
+      "translation": "",
+      "meaning": "Base form: get; Past simple: got; Past participle: got/gotten.",
+      "level": "",
+      "sentences": [],
+      "base": "get",
+      "past": "got",
+      "participle": "got/gotten"
+    },
+    {
+      "word": "want",
+      "translation": "",
+      "meaning": "Base form: want; Past simple: wanted; Past participle: wanted.",
+      "level": "",
+      "sentences": [],
+      "base": "want",
+      "past": "wanted",
+      "participle": "wanted"
+    },
+    {
+      "word": "hang",
+      "translation": "",
+      "meaning": "Base form: hang; Past simple: hung; Past participle: hung.",
+      "level": "",
+      "sentences": [],
+      "base": "hang",
+      "past": "hung",
+      "participle": "hung"
+    },
+    {
+      "word": "freeze",
+      "translation": "",
+      "meaning": "Base form: freeze; Past simple: froze; Past participle: frozen.",
+      "level": "",
+      "sentences": [],
+      "base": "freeze",
+      "past": "froze",
+      "participle": "frozen"
+    },
+    {
+      "word": "make",
+      "translation": "",
+      "meaning": "Base form: make; Past simple: made; Past participle: made.",
+      "level": "",
+      "sentences": [],
+      "base": "make",
+      "past": "made",
+      "participle": "made"
+    },
+    {
+      "word": "stand",
+      "translation": "",
+      "meaning": "Base form: stand; Past simple: stood; Past participle: stood.",
+      "level": "",
+      "sentences": [],
+      "base": "stand",
+      "past": "stood",
+      "participle": "stood"
+    },
+    {
+      "word": "lay",
+      "translation": "",
+      "meaning": "Base form: lay; Past simple: laid; Past participle: laid.",
+      "level": "",
+      "sentences": [],
+      "base": "lay",
+      "past": "laid",
+      "participle": "laid"
+    },
+    {
+      "word": "undo",
+      "translation": "",
+      "meaning": "Base form: undo; Past simple: undid; Past participle: undone.",
+      "level": "",
+      "sentences": [],
+      "base": "undo",
+      "past": "undid",
+      "participle": "undone"
+    },
+    {
+      "word": "fight",
+      "translation": "",
+      "meaning": "Base form: fight; Past simple: fought; Past participle: fought.",
+      "level": "",
+      "sentences": [],
+      "base": "fight",
+      "past": "fought",
+      "participle": "fought"
+    },
+    {
+      "word": "carry",
+      "translation": "",
+      "meaning": "Base form: carry; Past simple: carried; Past participle: carried.",
+      "level": "",
+      "sentences": [],
+      "base": "carry",
+      "past": "carried",
+      "participle": "carried"
+    },
+    {
+      "word": "send",
+      "translation": "",
+      "meaning": "Base form: send; Past simple: sent; Past participle: sent.",
+      "level": "",
+      "sentences": [],
+      "base": "send",
+      "past": "sent",
+      "participle": "sent"
+    },
+    {
+      "word": "run",
+      "translation": "",
+      "meaning": "Base form: run; Past simple: ran; Past participle: run.",
+      "level": "",
+      "sentences": [],
+      "base": "run",
+      "past": "ran",
+      "participle": "run"
+    },
+    {
+      "word": "forgive",
+      "translation": "",
+      "meaning": "Base form: forgive; Past simple: forgave; Past participle: forgiven.",
+      "level": "",
+      "sentences": [],
+      "base": "forgive",
+      "past": "forgave",
+      "participle": "forgiven"
+    },
+    {
+      "word": "shine",
+      "translation": "",
+      "meaning": "Base form: shine; Past simple: shone; Past participle: shone.",
+      "level": "",
+      "sentences": [],
+      "base": "shine",
+      "past": "shone",
+      "participle": "shone"
+    },
+    {
+      "word": "pay",
+      "translation": "",
+      "meaning": "Base form: pay; Past simple: paid; Past participle: paid.",
+      "level": "",
+      "sentences": [],
+      "base": "pay",
+      "past": "paid",
+      "participle": "paid"
+    },
+    {
+      "word": "dream",
+      "translation": "",
+      "meaning": "Base form: dream; Past simple: dreamt/dreamed; Past participle: dreamt/dreamed.",
+      "level": "",
+      "sentences": [],
+      "base": "dream",
+      "past": "dreamt/dreamed",
+      "participle": "dreamt/dreamed"
+    },
+    {
+      "word": "ring",
+      "translation": "",
+      "meaning": "Base form: ring; Past simple: rang; Past participle: rung.",
+      "level": "",
+      "sentences": [],
+      "base": "ring",
+      "past": "rang",
+      "participle": "rung"
+    },
+    {
+      "word": "wait",
+      "translation": "",
+      "meaning": "Base form: wait; Past simple: waited; Past participle: waited.",
+      "level": "",
+      "sentences": [],
+      "base": "wait",
+      "past": "waited",
+      "participle": "waited"
+    },
+    {
+      "word": "leave",
+      "translation": "",
+      "meaning": "Base form: leave; Past simple: left; Past participle: left.",
+      "level": "",
+      "sentences": [],
+      "base": "leave",
+      "past": "left",
+      "participle": "left"
+    },
+    {
+      "word": "see",
+      "translation": "",
+      "meaning": "Base form: see; Past simple: saw; Past participle: seen.",
+      "level": "",
+      "sentences": [],
+      "base": "see",
+      "past": "saw",
+      "participle": "seen"
+    },
+    {
+      "word": "burn",
+      "translation": "",
+      "meaning": "Base form: burn; Past simple: burnt/burned; Past participle: burnt/burned.",
+      "level": "",
+      "sentences": [],
+      "base": "burn",
+      "past": "burnt/burned",
+      "participle": "burnt/burned"
+    },
+    {
+      "word": "show",
+      "translation": "",
+      "meaning": "Base form: show; Past simple: showed; Past participle: shown.",
+      "level": "",
+      "sentences": [],
+      "base": "show",
+      "past": "showed",
+      "participle": "shown"
+    },
+    {
+      "word": "catch",
+      "translation": "",
+      "meaning": "Base form: catch; Past simple: caught; Past participle: caught.",
+      "level": "",
+      "sentences": [],
+      "base": "catch",
+      "past": "caught",
+      "participle": "caught"
+    },
+    {
+      "word": "tear",
+      "translation": "",
+      "meaning": "Base form: tear; Past simple: tore; Past participle: torn.",
+      "level": "",
+      "sentences": [],
+      "base": "tear",
+      "past": "tore",
+      "participle": "torn"
+    },
+    {
+      "word": "set",
+      "translation": "",
+      "meaning": "Base form: set; Past simple: set; Past participle: set.",
+      "level": "",
+      "sentences": [],
+      "base": "set",
+      "past": "set",
+      "participle": "set"
+    },
+    {
+      "word": "sell",
+      "translation": "",
+      "meaning": "Base form: sell; Past simple: sold; Past participle: sold.",
+      "level": "",
+      "sentences": [],
+      "base": "sell",
+      "past": "sold",
+      "participle": "sold"
+    },
+    {
+      "word": "become",
+      "translation": "",
+      "meaning": "Base form: become; Past simple: became; Past participle: become.",
+      "level": "",
+      "sentences": [],
+      "base": "become",
+      "past": "became",
+      "participle": "become"
+    },
+    {
+      "word": "spread",
+      "translation": "",
+      "meaning": "Base form: spread; Past simple: spread; Past participle: spread.",
+      "level": "",
+      "sentences": [],
+      "base": "spread",
+      "past": "spread",
+      "participle": "spread"
+    },
+    {
+      "word": "drink",
+      "translation": "",
+      "meaning": "Base form: drink; Past simple: drank; Past participle: drunk.",
+      "level": "",
+      "sentences": [],
+      "base": "drink",
+      "past": "drank",
+      "participle": "drunk"
+    },
+    {
+      "word": "have",
+      "translation": "",
+      "meaning": "Base form: have; Past simple: had; Past participle: had.",
+      "level": "",
+      "sentences": [],
+      "base": "have",
+      "past": "had",
+      "participle": "had"
+    },
+    {
+      "word": "lead",
+      "translation": "",
+      "meaning": "Base form: lead; Past simple: led; Past participle: led.",
+      "level": "",
+      "sentences": [],
+      "base": "lead",
+      "past": "led",
+      "participle": "led"
+    },
+    {
+      "word": "think",
+      "translation": "",
+      "meaning": "Base form: think; Past simple: thought; Past participle: thought.",
+      "level": "",
+      "sentences": [],
+      "base": "think",
+      "past": "thought",
+      "participle": "thought"
+    },
+    {
+      "word": "like",
+      "translation": "",
+      "meaning": "Base form: like; Past simple: liked; Past participle: liked.",
+      "level": "",
+      "sentences": [],
+      "base": "like",
+      "past": "liked",
+      "participle": "liked"
+    },
+    {
+      "word": "speak",
+      "translation": "",
+      "meaning": "Base form: speak; Past simple: spoke; Past participle: spoken.",
+      "level": "",
+      "sentences": [],
+      "base": "speak",
+      "past": "spoke",
+      "participle": "spoken"
+    },
+    {
+      "word": "feed",
+      "translation": "",
+      "meaning": "Base form: feed; Past simple: fed; Past participle: fed.",
+      "level": "",
+      "sentences": [],
+      "base": "feed",
+      "past": "fed",
+      "participle": "fed"
+    },
+    {
+      "word": "rebuild",
+      "translation": "",
+      "meaning": "Base form: rebuild; Past simple: rebuilt; Past participle: rebuilt.",
+      "level": "",
+      "sentences": [],
+      "base": "rebuild",
+      "past": "rebuilt",
+      "participle": "rebuilt"
+    },
+    {
+      "word": "go",
+      "translation": "",
+      "meaning": "Base form: go; Past simple: went; Past participle: gone.",
+      "level": "",
+      "sentences": [],
+      "base": "go",
+      "past": "went",
+      "participle": "gone"
+    },
+    {
+      "word": "bring",
+      "translation": "",
+      "meaning": "Base form: bring; Past simple: brought; Past participle: brought.",
+      "level": "",
+      "sentences": [],
+      "base": "bring",
+      "past": "brought",
+      "participle": "brought"
+    }
+  ]
+}
